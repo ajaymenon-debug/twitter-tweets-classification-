@@ -5,3 +5,5 @@ The aim of this challenge is to develop a classifier that can assign a set of tw
 to their corresponding labels.
 
 All the input files are present inside the Data folder
+
+
